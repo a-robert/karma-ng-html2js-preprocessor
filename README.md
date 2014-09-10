@@ -14,7 +14,7 @@ The easiest way is to keep `karma-ng-html2js-preprocessor` as a devDependency in
     "karma-html2js-preprocessor": "~0.1.0",
     "karma-ng-html2js-preprocessor-requirejs": "a-robert/karma-ng-html2js-preprocessor.git"
   }
-}git 
+}
 ```
 
 You can simple do it by:
