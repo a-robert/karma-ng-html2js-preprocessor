@@ -1,5 +1,5 @@
 {
-  "name": "karma-ng-html2js-preprocessor",
+  "name": "karma-ng-html2js-preprocessor-requirejs",
   "version": "0.1.0",
   "description": "A Karma plugin. Compile AngularJS templates to JavaScript on the fly.",
   "main": "lib/index.js",
@@ -39,6 +39,7 @@
     "Robin Roestenburg <robin@roestenburg.io>",
     "Lucas Galfasó <lgalfaso@gmail.com>",
     "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
-    "BrianLenzo <brian.lenzo@gmail.com>"
+    "BrianLenzo <brian.lenzo@gmail.com>",
+    "Robert Asaturyan <asaturyan.robert@gmail.com>"
   ]
 }
