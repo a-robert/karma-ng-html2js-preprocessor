@@ -11,14 +11,14 @@ The easiest way is to keep `karma-ng-html2js-preprocessor` as a devDependency in
 {
   "devDependencies": {
     "karma": "~0.10",
-    "karma-ng-html2js-preprocessor": "~0.1"
+    "karma-ng-html2js-preprocessor": "a-robert/karma-ng-html2js-preprocessor.git"
   }
-}
+}git 
 ```
 
 You can simple do it by:
 ```bash
-npm install karma-ng-html2js-preprocessor --save-dev
+npm install a-robert/karma-ng-html2js-preprocessor.git --save-dev
 ```
 
 ## Configuration
