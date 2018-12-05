@@ -4,6 +4,8 @@
 
 *Note:* If you are looking for a general preprocessor that is not tight to Angular, check out [karma-html2js-preprocessor](https://github.com/karma-runner/karma-html2js-preprocessor).
 
+*This project is a fork for karma-ng-html2js-preprocessor. I was needed to add requirejs proper support.*
+
 ## Installation
 
 The easiest way is to keep `karma-ng-html2js-preprocessor` as a devDependency in your `package.json`.
